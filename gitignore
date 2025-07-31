@@ -1,0 +1,30 @@
+# Ignore system files and folders
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Ignore system-related files
+NTUSER.DAT
+NTUSER.DAT*
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+
+# Ignore IDE related files
+.idlerc/
+.lesshst
+.vscode/
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
